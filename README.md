@@ -2,9 +2,13 @@
 
 ### TechStack
 BackEnd - Nest.js
+
 FrontEnd - React
+
 Language - TypeScript
+
 Database - MariaDB
+
 Deploy - AWS CloudFront, Elastic Beanstalk
 
 ### Discord
